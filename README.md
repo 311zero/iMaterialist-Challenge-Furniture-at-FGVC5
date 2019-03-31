@@ -1,2 +1,4 @@
 # iMaterialist-Challenge-Furniture-at-FGVC5
-kaggle比赛‘iMaterialist Challenge(Furniture)at FGVC5’家居识别比赛，是一个多分类问题，128类
+kaggle比赛‘iMaterialist Challenge(Furniture)at FGVC5’家居识别比赛，是一个多分类问题，128类  
+
+将照片中的产品自动分类。难点在于同一个产品，可以在不同的灯光、角度、背景、遮挡物下拍摄；同时，不同细粒度的类别看起来可能非常相似；而且图像大小从265到5792像素不等。  
