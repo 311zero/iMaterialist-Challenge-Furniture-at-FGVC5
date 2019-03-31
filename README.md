@@ -8,4 +8,5 @@ kaggle比赛‘iMaterialist Challenge(Furniture)at FGVC5’家居识别比赛，
 训练模型使用：python cnn_runner.py train  
 使用训练好的模型进行预测：python cnn_runner.py predict  
 生成提交的文件：python submit.py  
-
+### 结果 
+目前排名：76/428 分数：0.14822
